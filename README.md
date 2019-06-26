@@ -11,3 +11,4 @@ Official code repository<https://github.com/xvjiarui/GCNet>
 ```
 #### Module picture
 ![](https://github.com/xggIoU/GCNet_global_context_module_tensorflow/blob/master/global_context_module.png)
+#### Code sample
